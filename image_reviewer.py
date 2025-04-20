@@ -1,3 +1,13 @@
+# -----------------------------------------------------------------------------
+# Tkinter Image Analyzer
+#
+# Author: [Sagy Gabay]
+# Date: [20/04/2025/Completed]
+#
+# Acknowledgements:
+# This project was developed under the supervision of Chen Giladi as part of
+# thesis work at [Sami-Shamoon college of Engineering (SCE),Isreal].
+# -----------------------------------------------------------------------------
 import sys
 import os
 import shutil
