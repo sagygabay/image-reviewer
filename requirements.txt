@@ -1,0 +1,4 @@
+PySide6==6.x.x
+PySide6-Addons==6.x.x
+PySide6-Essentials==6.x.x
+shiboken6==6.x.x
